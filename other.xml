@@ -64,29 +64,38 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node">
+      <version-cache version="5.10.1" last-modified="1459892861000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.8.0/bin/node">
-      <version-cache version="5.8.0" last-modified="1457492119000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.6.0/bin/node">
-      <version-cache version="5.6.0" last-modified="1455034589000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node">
-      <version-cache version="5.3.0" last-modified="1450291424000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node">
-      <version-cache version="5.1.0" last-modified="1447793407000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.2/bin/node">
+      <version-cache version="4.4.2" last-modified="1459471138000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node">
-      <version-cache version="4.4.0" last-modified="1457490456000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.7/bin/node">
-      <version-cache version="0.12.7" last-modified="1436483590000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/v0.10.44/bin/node">
+      <version-cache version="0.10.44" last-modified="1459468665000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/v0.10.40/bin/node">
-      <version-cache version="0.10.40" last-modified="1436477362000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/v0.10.25/bin/node">
-      <version-cache version="0.10.25" last-modified="1390504440000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
   <component name="SvgViewer.Settings">
