@@ -1,0 +1,15 @@
+<templateSet group="AngularJS ">
+  <template name="ngforb" value="var keepGoing = true;&#10;angular.forEach($array$, function($item$){&#10;  if(keepGoing) {&#10;    if($item$ == 1){&#10;      keepGoing = false;&#10;    }&#10;  }&#10;});&#10;$END$" description="angular.forEach loop with break" toReformat="true" toShortenFQNames="true">
+    <variable name="array" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="$q" value="var deferred = $q.defer();&#10;deferred.resolve();&#10;deferred.reject();&#10;deferred.notify();&#10;return deferred.promise;" description="Define $q servivce expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
