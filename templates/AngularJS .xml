@@ -3,7 +3,6 @@
     <variable name="array" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="item" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_EXPRESSION" value="false" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
