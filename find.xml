@@ -13,11 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.ts</mask>
-      <mask>*.scss</mask>
-      <mask>*.scss</mask>
       <mask>*.html</mask>
       <mask>*.js</mask>
-      <mask>*.md</mask>
     </recentFileMasks>
   </component>
 </application>
