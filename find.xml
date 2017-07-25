@@ -9,7 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.sass</mask>
@@ -30,14 +29,15 @@
       <mask>*.t</mask>
       <mask>*.c</mask>
       <mask>*.scc</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
+      <mask>*.jsxx</mask>
       <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
