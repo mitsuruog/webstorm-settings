@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
@@ -24,7 +24,6 @@
       <mask>*</mask>
       <mask>*.jx</mask>
       <mask>*.sx</mask>
-      <mask>*.tsx</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.c</mask>
@@ -39,6 +38,7 @@
       <mask>*.js</mask>
       <mask>*.jsxx</mask>
       <mask>*.jsx</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
