@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
@@ -37,8 +37,8 @@
       <mask>*.sx</mask>
       <mask>*.tss</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
