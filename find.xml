@@ -23,22 +23,21 @@
       <mask>*s</mask>
       <mask>*</mask>
       <mask>*.jx</mask>
-      <mask>*.sx</mask>
-      <mask>*.tsx</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.c</mask>
       <mask>*.scc</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
-      <mask>*.jsxx</mask>
       <mask>*.jsx</mask>
+      <mask>*.sx</mask>
+      <mask>*.tsx</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
