@@ -15,6 +15,7 @@
       <mapping pattern="KEYBOARDTEST" type="PLAIN_TEXT" />
       <mapping ext="har" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
