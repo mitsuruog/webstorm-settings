@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*js</mask>
       <mask>*j</mask>
@@ -31,16 +31,16 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.sx</mask>
-      <mask>*.s</mask>
       <mask>*</mask>
       <mask>*.tsx</mask>
-      <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.s</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
