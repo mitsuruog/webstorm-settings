@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*scs</mask>
       <mask>*sc</mask>
@@ -25,22 +25,22 @@
       <mask>*.se</mask>
       <mask>*.tss</mask>
       <mask>*</mask>
-      <mask>*.t</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
       <mask>*.hsx</mask>
       <mask>*.sx</mask>
-      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.j</mask>
       <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.tsx</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
