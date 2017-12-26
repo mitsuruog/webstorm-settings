@@ -9,9 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
-      <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
       <mask>*.se</mask>
@@ -39,8 +38,9 @@
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.tsx</mask>
+      <mask>*.tsc</mask>
       <mask>*.ts</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
