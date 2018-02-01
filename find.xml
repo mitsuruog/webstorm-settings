@@ -9,14 +9,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.connetsx</mask>
       <mask>*.connectsx</mask>
       <mask>*.connecttsx</mask>
       <mask>*.connect.tsx</mask>
       <mask>*..tsx</mask>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.tsc</mask>
       <mask>*.t</mask>
@@ -41,6 +40,7 @@
       <mask>*.js</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
