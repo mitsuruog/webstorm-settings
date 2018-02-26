@@ -1,26 +1,21 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
-      <mask>*.connect.tsx</mask>
-      <mask>*..tsx</mask>
-      <mask>*.scs</mask>
       <mask>*.tsc</mask>
-      <mask>*.t</mask>
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.sx</mask>
       <mask>*.s</mask>
@@ -32,14 +27,19 @@
       <mask>*.jsx?</mask>
       <mask>*.js|x</mask>
       <mask>*.jsxz</mask>
-      <mask>*.md</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.jsx</mask>
+      <mask>*.sx</mask>
+      <mask>*.md</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.tsx</mask>
       <mask>*.tsx</mask>
     </recentFileMasks>
   </component>

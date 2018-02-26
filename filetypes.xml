@@ -7,6 +7,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="message" type="PLAIN_TEXT" />
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
       <mapping pattern=".commit_template" type="PLAIN_TEXT" />
       <mapping pattern=".editorcinfig" type="PLAIN_TEXT" />
