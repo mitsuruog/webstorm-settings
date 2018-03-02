@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.tsc</mask>
       <mask>*.scala</mask>
@@ -38,9 +38,9 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.tsx</mask>
-      <mask>*.tsx</mask>
       <mask>*.scss</mask>
+      <mask>*.tsx</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
