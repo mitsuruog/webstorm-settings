@@ -10,6 +10,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.tsc</mask>
       <mask>*.scal</mask>
@@ -28,7 +29,7 @@
       <mask>*.jsxz</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
-      <mask>*.js</mask>
+      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.jsx</mask>
       <mask>*.sx</mask>
@@ -36,11 +37,14 @@
       <mask>*.m</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
+      <mask>*.ts</mask>
       <mask>*.tsx</mask>
       <mask>*.scala</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
