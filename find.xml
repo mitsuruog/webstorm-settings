@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.sc</mask>
       <mask>*.j</mask>
@@ -25,7 +25,6 @@
       <mask>*.jsxz</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.jsx</mask>
       <mask>*.sx</mask>
@@ -41,6 +40,7 @@
       <mask>*.md</mask>
       <mask>*.tsx</mask>
       <mask>*.tsx</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
