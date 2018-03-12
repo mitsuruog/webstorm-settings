@@ -35,11 +35,11 @@
       <mask>*.scala</mask>
       <mask>*.md</mask>
       <mask>*.scss</mask>
-      <mask>*.scss</mask>
       <mask>*.tsx</mask>
       <mask>*.js</mask>
       <mask>*.scala</mask>
       <mask>*.tsx</mask>
+      <mask>*.scss</mask>
       <mask>*.scss</mask>
       <mask>*.ts</mask>
       <mask>*.ts</mask>
