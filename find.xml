@@ -38,10 +38,10 @@
       <mask>*.js</mask>
       <mask>*.scala</mask>
       <mask>*.tsx</mask>
-      <mask>*.scss</mask>
-      <mask>*.scss</mask>
       <mask>*.ts</mask>
       <mask>*.ts</mask>
+      <mask>*.scss</mask>
+      <mask>*.scss</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
