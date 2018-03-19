@@ -39,9 +39,9 @@
       <mask>*.ts</mask>
       <mask>*.ts</mask>
       <mask>*.scss</mask>
+      <mask>*.tsx</mask>
+      <mask>*.tsx</mask>
       <mask>*.scss</mask>
-      <mask>*.tsx</mask>
-      <mask>*.tsx</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
