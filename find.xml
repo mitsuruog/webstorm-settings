@@ -10,32 +10,15 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.tsx" />
-    <recentFileMasks>
-      <mask>*.jss</mask>
-      <mask>*.jsx?</mask>
-      <mask>*.js|x</mask>
-      <mask>*.jsxz</mask>
-      <mask>*.*</mask>
-      <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.jsx</mask>
-      <mask>*.sx</mask>
-      <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.scala</mask>
-      <mask>*.js</mask>
-      <mask>*.scala</mask>
-      <mask>*.md</mask>
-      <mask>*.js</mask>
-      <mask>*.scala</mask>
-      <mask>*.scss</mask>
-      <mask>*.scss</mask>
-      <mask>*.scss</mask>
-      <mask>*.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.tsx</mask>
-      <mask>*.tsx</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
