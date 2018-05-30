@@ -24,6 +24,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="KEYBOARDTEST" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="social" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
