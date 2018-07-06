@@ -15,8 +15,8 @@
     <mask>*.spec.tsx</mask>
     <mask>*.md</mask>
     <mask>*.jsx</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
