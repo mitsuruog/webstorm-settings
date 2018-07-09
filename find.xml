@@ -16,9 +16,9 @@
     <mask>*.md</mask>
     <mask>*.jsx</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
