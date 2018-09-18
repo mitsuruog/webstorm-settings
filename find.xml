@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
@@ -17,12 +15,13 @@
     <mask>*.spec.tsx</mask>
     <mask>*.md</mask>
     <mask>*.jsx</mask>
-    <mask>*.js</mask>
     <mask>*.connect.tsx</mask>
     <mask>*.yml</mask>
+    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
+    <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
   </component>
