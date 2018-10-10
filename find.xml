@@ -21,10 +21,10 @@
     <mask>*.ts</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
-    <mask>*.scss</mask>
-    <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.scss</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
