@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*Epic.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,5 +27,6 @@
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*Epic.ts</mask>
   </component>
 </application>
