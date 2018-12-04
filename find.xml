@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,12 +20,12 @@
     <mask>*.md</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
