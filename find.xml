@@ -21,13 +21,13 @@
     <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.scss</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.tsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
