@@ -1,37 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="BuildDockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="meeting" type="PLAIN_TEXT" />
-      <mapping pattern="memo" type="PLAIN_TEXT" />
-      <mapping pattern="っっl" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern="mysql" type="PLAIN_TEXT" />
-      <mapping pattern=".editorcinfig" type="PLAIN_TEXT" />
-      <mapping pattern="license" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
-      <mapping pattern="message" type="PLAIN_TEXT" />
-      <mapping pattern=".commit_template" type="PLAIN_TEXT" />
-      <mapping pattern=".dev.env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern=".editconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="KEYBOARDTEST" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="social" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="gradle" type="YAML" />
+      <removed_mapping pattern="MyDataMenu.tsx" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
