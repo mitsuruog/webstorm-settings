@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="t" type="EJS" />
       <removed_mapping pattern="MyDataMenu.tsx" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
