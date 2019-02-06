@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="t" type="EJS" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping pattern="MyDataMenu.tsx" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
