@@ -11,6 +11,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
