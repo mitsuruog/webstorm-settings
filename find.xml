@@ -17,6 +17,7 @@
     <mask>*.scss</mask>
     <mask>*.java</mask>
     <mask>*.tsx</mask>
+    <mask>*.</mask>
     <mask>*.ts</mask>
   </component>
 </application>
